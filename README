@@ -26,7 +26,7 @@ load and run it dynamically.
 
 N64 Support:
 ==========
-This will be work-in-progress and experiment.
+An experimental idea for just emulators.
 The goal is compile uboot for MIPS R4300i and make it support the N64 hardware as a PIF rom replacement
 and attempt to get as far as loading in an old linux binary or at least a test binary first. Perhaps
 it could be modified to provide the bootstrap environment that allow cartridges to boot as well.
